@@ -1,4 +1,10 @@
 # 💫 About Me:
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/14268/screenshots/6662134/media/e89f1ac6a290d2bb146d682edb7aa09d.png" alt="We're Hiring Banner" />
+</p>
+
+
 ## 👋 About Me :<br><br>🎯 I’m currently working on:  <br>Building frontend projects using React, Tailwind CSS, and Framer Motion to master modern UI/UX design.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source frontend tools, beginner-friendly coding communities, and design-to-code projects.<br><br>💬 I’m looking for help with:  <br>Advanced animations in React, performance optimization, and portfolio review.<br><br>🌱 I’m currently learning:  <br>Next.js, TypeScript, and how to design responsive layouts like a pro.<br><br>💡 Ask me about:  <br>Frontend development, React best practices, UI design tips, and productivity tools.<br><br>⚡ Fun fact:  <br>I can memorize entire movie scenes and write code that feels like poetry!<br>
 
 
