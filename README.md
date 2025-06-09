@@ -5,7 +5,37 @@
 </p>
 
 
-## 👋 About Me :<br><br>🎯 I’m currently working on:  <br>Building frontend projects using React, Tailwind CSS, and Framer Motion to master modern UI/UX design.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source frontend tools, beginner-friendly coding communities, and design-to-code projects.<br><br>💬 I’m looking for help with:  <br>Advanced animations in React, performance optimization, and portfolio review.<br><br>🌱 I’m currently learning:  <br>Next.js, TypeScript, and how to design responsive layouts like a pro.<br><br>💡 Ask me about:  <br>Frontend development, React best practices, UI design tips, and productivity tools.<br><br>⚡ Fun fact:  <br>I can memorize entire movie scenes and write code that feels like poetry!<br>
+## 👋 About Me :<br><br>🔧 Proficient in core web technologies: HTML5, CSS3, JavaScript (ES6+)
+
+⚛️ Expert in modern frameworks: React.js, Next.js, Vue.js, Angular
+
+🧠 Deep understanding of TypeScript for scalable frontend architecture
+
+🎨 Specialized in responsive UI design using Tailwind CSS, Sass, and CSS-in-JS
+
+⚙️ Built and maintained component libraries and design systems
+
+🔄 Strong experience with state management: Redux, Context API, React Query
+
+🔍 Optimized frontend performance (lazy loading, code-splitting, Lighthouse audits)
+
+🔐 Implemented secure authentication flows with JWT, OAuth, and NextAuth
+
+🌐 Integrated RESTful APIs and GraphQL into dynamic SPAs
+
+🧪 Practiced TDD & QA with Jest, React Testing Library, Cypress
+
+📦 Led CI/CD pipelines using GitHub Actions, Netlify, and Vercel
+
+📊 Used analytics tools (GA, Segment, Hotjar) to drive UI decisions
+
+👨‍🏫 Mentored junior developers and led code reviews & frontend guilds
+
+📱 Focused on accessibility (a11y) and WCAG-compliant design
+
+🚀 Delivered production-ready apps in Agile/Scrum environments
+
+📚 Continuously learning trends like micro frontends, Web3 UI, and AI-integrated UX <br>
 
 
 ## 🌐 Socials:
