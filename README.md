@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/14268/screenshots/6662134/media/e89f1ac6a290d2bb146d682edb7aa09d.png" alt="We're Hiring Banner" />
+  <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" alt="Web Developer Career GIF" />
 </p>
 
 
